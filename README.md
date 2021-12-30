@@ -14,18 +14,18 @@ The ui was designed using figma. the application was developed using flutter.
 Figma file: https://www.figma.com/file/F4lUqOzWnQMI3gcsRTIRa7/StayFit?node-id=0%3A1
 
 Widgets Used:
-Card Widget
-SingleChildScrollView
-Form & TextFormField
-CircularProgressIndicator
-Listview Builder
+Card Widget,
+SingleChildScrollView,
+Form & TextFormField,
+CircularProgressIndicator,
+Listview Builder,
 Gesture Detector and many more
 
 Packages Used:
-Intl Package
-Firebase database Package
-Firebase auth Package
-Url Launcher Package
+Intl Package,
+Firebase database Package,
+Firebase auth Package,
+Url Launcher Package,
 Firebase animated list package
 
 
