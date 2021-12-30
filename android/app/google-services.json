@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91151383294",
+    "project_id": "stayfit-4108b",
+    "storage_bucket": "stayfit-4108b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91151383294:android:87e09b75852c556a23c3af",
+        "android_client_info": {
+          "package_name": "com.example.stayfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91151383294-oghpq43ivo40gbq45qu22ssei95rii0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stayfit",
+            "certificate_hash": "36a7010253479c314f8052f8e5e590472351266d"
+          }
+        },
+        {
+          "client_id": "91151383294-trc48m46lgtglfc18e2cnhg3m8u20gbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvtzH4l5XxWZqXpXkOCcLZtMT_SiaAuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91151383294-trc48m46lgtglfc18e2cnhg3m8u20gbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
